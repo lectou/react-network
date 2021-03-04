@@ -1,0 +1,53 @@
+.dialog-page {
+  // position: relative;
+  // height: calc(100vh - 90px);
+  // display: flex;
+  // flex-direction: column;
+
+  // @include breakpoint($small-size) {
+  //   height: calc(100vh - 95px);
+  // }
+  &__header {
+    border-top: 1px solid $primary;
+    background-color: $secondary;
+  }
+  &__wrapper {
+    height: 90px;
+    z-index: 10;
+    position: relative;
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    @include breakpoint($small-size) {
+      height: 60px;
+      padding: 0 1.5rem;
+    }
+  }
+  &__photo {
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    margin-right: 3rem;
+    @include breakpoint($small-size) {
+      height: 40px;
+      width: 40px;
+      margin-right: 2rem;
+    }
+  }
+
+  &__name {
+    color: $white;
+    font-size: 2rem;
+    font-weight: bold;
+    @include breakpoint($small-size) {
+      font-size: 1.4rem;
+    }
+  }
+  &__status {
+    color: darken($color: $white, $amount: 20);
+    font-size: 1.4rem;
+    @include breakpoint($small-size) {
+      font-size: 1.2rem;
+    }
+  }
+}

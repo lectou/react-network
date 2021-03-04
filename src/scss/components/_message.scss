@@ -1,0 +1,67 @@
+.message {
+  $self: &;
+  height: calc(100vh - (90px + 48px + 60px));
+  position: relative;
+  @include scroll-bar;
+  overflow: auto;
+  padding: 4rem 2rem;
+  @include breakpoint($small-size) {
+    height: calc(100vh - (90px + 18px + 60px));
+    padding: 4rem 1rem;
+  }
+
+  &__no-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h2 {
+      font-size: 3.2rem;
+      color: darken($color: $white, $amount: 15);
+    }
+  }
+
+  &__item {
+    margin-bottom: 4rem;
+    position: relative;
+    display: flex;
+    .time {
+      position: absolute;
+      font-size: 1.2rem;
+      color: darken($color: $white, $amount: 20);
+      bottom: -25px;
+      text-align: left;
+      width: 100%;
+      right: 0;
+      left: 0;
+    }
+    &--my {
+      #{$self}__time {
+        right: 10px;
+      }
+      .time {
+        text-align: right;
+      }
+    }
+  }
+
+  &__text {
+    font-size: 1.4rem;
+    color: $white;
+    background-color: #2e333e;
+    padding: 1.5rem;
+    line-height: 1.4;
+    border-radius: 0 10px 10px 10px;
+    max-width: 80%;
+    display: inline-block;
+    @include breakpoint($large-size) {
+      max-width: 95%;
+    }
+  }
+  &__item--my {
+    #{$self}__text {
+      margin-left: auto;
+      border-radius: 10px 10px 0 10px;
+      background-color: #207a53;
+    }
+  }
+}

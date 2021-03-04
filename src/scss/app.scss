@@ -1,0 +1,57 @@
+@import 'fonts';
+@import 'variables';
+@import 'mixins';
+@import 'libs/normalize';
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #1c202a;
+  font-size: 1.4rem;
+  color: $white;
+  font-family: 'Roboto', system-ui, Tahoma, sans-serif;
+  overflow: hidden;
+}
+
+.main {
+  padding: 0 0 0 $sidebar-width;
+  position: relative;
+  @include breakpoint($large-size) {
+    padding-left: 0;
+  }
+  margin-top: $header-height;
+  height: calc(100vh - #{$header-height});
+  overflow: auto;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 5rem;
+  position: relative;
+  @include breakpoint($medium-size) {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+.active-sidebar {
+  @include breakpoint($large-size) {
+    position: relative;
+    &:after {
+      content: '';
+      display: block;
+      width: 100%;
+      height: 100%;
+      background-color: rgba($black, 0.8);
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 10;
+    }
+  }
+}
+
+@import './components/all';

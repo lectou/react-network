@@ -1,0 +1,84 @@
+@import '../variables';
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: $z-index-sidebar;
+  width: $sidebar-width;
+  height: 100vh;
+  background-color: $primary;
+  box-shadow: 0 0 10px rgba($color: #050505, $alpha: 0.2);
+  overflow: hidden;
+
+  @include breakpoint($large-size) {
+    display: flex;
+    flex-direction: column;
+    transform: translateX(-100%);
+    transition: transform 0.3s ease-in-out;
+    top: 4rem;
+    height: calc(100vh - #{$header-height});
+    padding-bottom: 1.8rem;
+    overflow: auto;
+  }
+
+  &__header {
+    height: 18rem;
+    background-color: $secondary;
+    position: relative;
+    img {
+      display: block;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+    @include breakpoint($large-size) {
+      height: 10rem;
+    }
+  }
+
+  &__login {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    font-size: 2.1rem;
+    font-weight: bold;
+    height: 6rem;
+    display: block;
+    background-color: rgba($color: $primary, $alpha: 0.6);
+    color: $white;
+    padding: 0 2rem;
+    line-height: 3;
+    text-align: center;
+    filter: grayscale(50%);
+  }
+
+  &__content {
+    padding: 0 2rem;
+    height: calc(100vh - (16.5rem));
+    margin-top: -5rem;
+    overflow: auto;
+    @include breakpoint($large-size) {
+      margin-top: -2.5rem;
+    }
+  }
+
+  &__footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2rem;
+    @include breakpoint($large-size) {
+      margin-top: auto;
+    }
+  }
+}
+
+.active-sidebar {
+  .sidebar {
+    @include breakpoint($large-size) {
+      transform: translateX(0%);
+    }
+  }
+}

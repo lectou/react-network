@@ -1,0 +1,46 @@
+.delete-post {
+  $self: &;
+  position: absolute;
+  right: 5%;
+  top: 5%;
+  width: 70px;
+  height: 70px;
+  background-color: rgba($color: #971c34, $alpha: 0.6);
+  border-radius: 50%;
+  opacity: 1;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  animation: ease 0.7s right-to-left forwards;
+  transform: translate(0%, -150%) rotate(45deg);
+
+  &__icon {
+    transform: rotate(-45deg) translate(-73%, 0%);
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 50%;
+    bottom: 50%;
+    opacity: 0.7;
+    transition: opacity 0.3s;
+  }
+
+  &:hover {
+    background-color: rgba($color: #971c34, $alpha: 0.8);
+    #{$self}__icon {
+      opacity: 1;
+    }
+  }
+}
+
+@keyframes right-to-left {
+  0% {
+    transform: translate(0%, -30%) rotate(45deg);
+    opacity: 0;
+    border-radius: 0 50% 50% 50%;
+  }
+  100% {
+    transform: translate(0%, 0%) rotate(45deg);
+    opacity: 1;
+    border-radius: 50%;
+  }
+}

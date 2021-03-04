@@ -1,0 +1,26 @@
+.loginPage {
+  margin-top: 20vh;
+}
+.login {
+  max-width: 350px;
+  margin: 5rem auto 3rem;
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  position: relative;
+
+  &__button {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+  }
+
+  &__form {
+    .form__input {
+      margin-bottom: 3rem;
+    }
+    .form__group {
+      margin-bottom: 2.5rem;
+    }
+  }
+}

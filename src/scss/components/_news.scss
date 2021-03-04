@@ -1,0 +1,81 @@
+.news {
+  display: flex;
+  margin-bottom: 4rem;
+
+  @include breakpoint($small-size) {
+    flex-direction: column;
+  }
+  &__column {
+    flex: 50%;
+    max-width: 50%;
+    &:first-child {
+      margin-right: 15px;
+    }
+    @include breakpoint($small-size) {
+      flex: 100%;
+      max-width: 100%;
+      &:first-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  &__block {
+    overflow: hidden;
+    border-radius: 8px;
+    background-color: $primary;
+    margin-bottom: 15px;
+    box-shadow: 0 15px 25px rgba($color: $black, $alpha: 0.35);
+    &-bottom {
+      padding: 20px;
+      overflow: hidden;
+      @include breakpoint($large-size) {
+        padding: 15px;
+      }
+    }
+  }
+
+  &__title {
+    font-size: 1.8rem;
+    color: $white;
+    margin-bottom: 1.2rem;
+    display: block;
+    &:hover {
+      text-decoration: underline;
+    }
+    @include breakpoint($medium-size) {
+      line-height: 1.3;
+    }
+  }
+
+  &__image {
+    width: 100%;
+  }
+
+  &__description {
+    font-size: 1.4rem;
+    color: darken($color: $white, $amount: 10);
+    @include cut-text($primary, 60px);
+    margin-bottom: 1.2rem;
+    @include breakpoint($medium-size) {
+      line-height: 1.3;
+    }
+  }
+
+  &__info {
+    float: left;
+  }
+
+  &__autor,
+  &__time {
+    display: flex;
+    align-items: center;
+    font-size: 1.2rem;
+    color: $grey;
+    img {
+      height: 14px;
+      width: 14px;
+      margin-right: 3px;
+    }
+  }
+}

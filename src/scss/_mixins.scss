@@ -1,0 +1,44 @@
+@mixin hover-btn($color) {
+  border: 3px solid $color;
+  &:hover {
+    border: 3px solid darken($color, 15%);
+    text-decoration: none;
+  }
+}
+
+@mixin breakpoint($size) {
+  @media (max-width: $size) {
+    @content;
+  }
+}
+
+@mixin scroll-bar {
+  cursor: pointer;
+  &:hover {
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
+  &::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+  }
+  &::-webkit-scrollbar-thumb {
+    border-radius: 2px;
+    background-color: #575757;
+  }
+}
+
+@mixin cut-text($bg-color, $max-height) {
+  overflow-y: hidden;
+  position: relative;
+  max-height: $max-height;
+  &:after {
+    content: '';
+    position: absolute;
+    height: 30px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(rgba($primary, 0.2), rgba($primary, 0.9), $primary);
+  }
+}

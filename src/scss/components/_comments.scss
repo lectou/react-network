@@ -1,0 +1,49 @@
+.comments {
+  position: relative;
+  padding: 0;
+  margin-right: -2.7rem;
+  margin-left: -2.7rem;
+  margin-bottom: -2.5rem;
+  @include breakpoint($small-size) {
+    margin-right: -1.5rem;
+    margin-left: -1.5rem;
+    margin-bottom: -2rem;
+  }
+  &__item {
+    &:not(:last-child) {
+      margin-bottom: 1.5rem;
+    }
+  }
+  &__area {
+    overflow: auto;
+    @include scroll-bar;
+    max-height: 400px;
+    margin: 0 3rem 1rem;
+    @include breakpoint($small-size) {
+      margin: 0 1.5rem 1rem;
+    }
+  }
+  &__header {
+    display: flex;
+    align-items: center;
+  }
+  &__avatar {
+    width: 3.2rem;
+    height: 3.2rem;
+    border-radius: 50%;
+  }
+  &__autor {
+    padding-left: 1rem;
+    font-size: 1.2rem;
+  }
+  &__text {
+    color: $white;
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+    line-height: 1.3;
+  }
+  &__name {
+    font-size: 1.4rem;
+    line-height: 1.1;
+  }
+}

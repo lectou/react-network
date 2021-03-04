@@ -1,0 +1,18 @@
+.posts {
+  position: relative;
+
+  &__form {
+    .form__input {
+      margin-bottom: 3rem;
+    }
+    .form__group {
+      margin-bottom: 2.1rem;
+    }
+  }
+
+  .dropdown {
+    top: 100%;
+    left: 0;
+    transform: translate(-50%, -50%);
+  }
+}

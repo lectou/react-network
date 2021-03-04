@@ -1,0 +1,45 @@
+@import '../../scss/variables';
+
+$darken-blue: darken(#104be3, 15%);
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem 0 3rem;
+
+  &__item {
+    margin: 0 0.5rem;
+    display: block;
+    width: 40px;
+    height: 40px;
+    background-color: #0d0d0d;
+    border-radius: 3px;
+    font-size: 1.4;
+    color: $white;
+    text-align: center;
+    cursor: pointer;
+    line-height: 4rem;
+    box-shadow: 0 0 10px rgba($black, 0.15);
+    transition: background-color 0.2s ease-in;
+    position: relative;
+    &:hover {
+      background-color: $darken-blue;
+    }
+    &.active {
+      background-color: $darken-blue;
+      box-shadow: 0 0 10px rgba($darken-blue, 0.15);
+    }
+  }
+
+  &__chevron {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  &__button[disabled] {
+    opacity: 0.3;
+  }
+}

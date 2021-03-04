@@ -1,0 +1,60 @@
+@import '../variables';
+
+.btn {
+  font-size: 1.2rem;
+  line-height: 1.1;
+  font-weight: 500;
+  font-family: inherit;
+  display: inline-block;
+  vertical-align: top;
+  background: $secondary;
+  border-radius: 4em;
+  border: 3px solid $blue;
+  cursor: pointer;
+  text-decoration: none;
+  padding: 0.7rem 1.7rem;
+  color: $white;
+  transition: 0.3s;
+
+  &__dropdown {
+    background-color: rgba(255, 255, 255, 0.07);
+    border-radius: 40px;
+    height: 31px;
+    width: 31px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s;
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.15);
+    }
+    img {
+      height: 25px;
+      width: 25px;
+    }
+  }
+
+  &--red {
+    @include hover-btn($red);
+  }
+
+  &--blue {
+    @include hover-btn($blue);
+  }
+
+  &--green {
+    @include hover-btn($green);
+  }
+
+  &--rounded {
+    border-radius: 5px;
+  }
+
+  &--sm {
+    padding: 0.4em 0.8em;
+  }
+
+  &[disabled] {
+    opacity: 0.3;
+  }
+}

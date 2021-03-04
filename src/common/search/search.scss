@@ -1,0 +1,56 @@
+@import '../../scss/variables';
+@import '../../scss/mixins';
+
+.search {
+  height: $header-height;
+  width: 100%;
+  background-color: lighten($color: $secondary, $amount: 10%);
+  border-radius: 30px;
+  height: 40px;
+  max-width: 40rem;
+  // margin-left: auto;
+  position: relative;
+  overflow: hidden;
+
+  &__icon {
+    position: absolute;
+    background-color: lighten($color: $secondary, $amount: 10%);
+    right: 0;
+    top: 0;
+    bottom: 0;
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    img {
+      opacity: 0.5;
+    }
+  }
+
+  &__input {
+    border: none;
+    background: transparent;
+    font-family: inherit;
+    font-size: 1.2rem;
+    color: $white;
+    height: 100%;
+    padding: 0 1.3rem;
+    outline: none;
+    display: block;
+    width: 100%;
+    margin-right: 20px;
+    &::placeholder {
+      color: rgba($color: $white, $alpha: 0.5);
+    }
+  }
+
+  &__header {
+    border-radius: 0;
+    height: 100%;
+    width: 100%;
+  }
+
+  @include breakpoint($medium-size) {
+    max-width: auto;
+  }
+}

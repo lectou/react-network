@@ -1,0 +1,74 @@
+@import '../variables';
+
+.nav {
+  @include breakpoint($large-size) {
+    display: none;
+  }
+  &__list {
+    display: flex;
+  }
+
+  &__item {
+    position: relative;
+    &:not(:last-child) {
+      margin-right: 1px;
+    }
+    @include breakpoint($large-size) {
+      margin-bottom: 0.2rem;
+    }
+    &:hover {
+      a {
+        background-color: $blue;
+      }
+    }
+    .active {
+      background-color: $blue;
+    }
+  }
+
+  a {
+    display: block;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    color: $white;
+    padding: 1.35rem 1.5rem;
+    line-height: 1.2;
+    transition: background-color 0.3s;
+    white-space: nowrap;
+
+    &:hover {
+      background-color: $blue;
+      text-decoration: none;
+    }
+  }
+
+  &__menu {
+    position: relative;
+    padding-right: 3.5rem;
+    &:after {
+      content: '';
+      position: absolute;
+      top: 50%;
+      right: 1.5rem;
+      transform: translateY(-50%);
+      border-style: solid;
+      border-width: 5px 4px 0 4px;
+      border-color: $white transparent transparent transparent;
+      margin-top: 2px;
+    }
+  }
+}
+
+.nav-mobile {
+  display: none;
+  margin-top: 5rem;
+  @include breakpoint($large-size) {
+    display: block;
+    border-top: 1px solid $secondary;
+    border-bottom: 1px solid $secondary;
+    padding: 1rem 0;
+    .nav__list {
+      flex-direction: column;
+    }
+  }
+}

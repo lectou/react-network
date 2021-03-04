@@ -1,0 +1,41 @@
+@import '../variables';
+
+.header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  z-index: $z-index-header;
+  background-color: $secondary;
+  max-width: calc(100% - #{$sidebar-width});
+  width: 100%;
+  height: $header-height;
+  display: flex;
+
+  &__login-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    color: $white;
+    padding: 0 1rem;
+    transition: background-color 0.3s;
+    &[disabled] {
+      opacity: 0.5;
+    }
+    &:hover {
+      background-color: darken($color: $green, $amount: 15);
+    }
+    span {
+      margin-right: 0.5rem;
+      font-size: 1.2rem;
+    }
+    img {
+      height: 2rem;
+      width: 2rem;
+    }
+  }
+
+  @include breakpoint($large-size) {
+    max-width: 100%;
+  }
+}

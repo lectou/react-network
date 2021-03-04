@@ -1,0 +1,80 @@
+@import '../../scss/variables';
+@import '../../scss/mixins';
+
+.modal {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: $z-index-modal;
+  background-color: rgba($black, 0.8);
+  animation: ease 0.2s opacity-modal none;
+  padding: 1rem;
+
+  &__content {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 600px;
+    width: 100%;
+    overflow: hidden;
+    padding: 8rem 5rem 3rem;
+    background-color: $primary;
+    border-radius: 5px;
+    animation: ease 0.7s content-top none;
+    &--bottom {
+      padding-bottom: 8rem;
+    }
+    @include breakpoint($small-size) {
+      padding: 8rem 2rem 3rem;
+    }
+  }
+
+  &__close {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    padding: 0;
+    opacity: 0.6;
+    transition: opacity 0.3s, transform 0.3s;
+    height: 30px;
+    width: 30px;
+    &:hover {
+      transform: rotate(90deg);
+      opacity: 1;
+    }
+    img {
+      height: 30px;
+      width: 30px;
+    }
+  }
+}
+
+@keyframes opacity-modal {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes content-top {
+  0% {
+    transform: translate(-50%, -100%);
+  }
+  50% {
+    transform: translate(-50%, -50%);
+  }
+  100% {
+    top: 50%;
+    transform: translate(-50%, -50%);
+  }
+}
