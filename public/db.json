@@ -1288,6 +1288,268 @@
       "photo": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png"
     }
   ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures: Will Fed Chief Powell Offer Treasury Yield 'Twist' With Stock Market Rally Reeling? - Investor's Business Daily",
+      "description": "Dow futures rose Thursday morning with the stock market rally just hanging on. Fed chief Jerome Powell speaks with Treasury yields in focus.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-powell-treasury-yield-twist-bond-yields-pressure-stock-market-rally/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/10/stock-Jerome-Powell-02-fed.jpg",
+      "publishedAt": "2021-03-04T14:01:00Z",
+      "content": "The stock market opened higher Thursday morning, erasing overnight losses. The stock market rally is reeling, with the Nasdaq and growth stocks under heavy pressure in recent weeks amid rising bond y… [+5108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Weekly jobless claims rise less than expected despite weather impact - CNBC",
+      "description": "First-time claims for unemployment benefits totaled 750,000 last week, up from 736,000 the week before but below the 750,000 estimate.",
+      "url": "https://www.cnbc.com/2021/03/04/weekly-jobless-claims.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106844149-1614084766129-gettyimages-1303590170-uspresidentbidentorevisesmallbusinessloanstoreachminorityf.jpeg?v=1614084851",
+      "publishedAt": "2021-03-04T13:32:00Z",
+      "content": "Weekly jobless claims edged higher last week but rose less than expected for an economy struggling to shake off impacts from a pandemic that has been around now for nearly a year.\r\nThe Labor Departme… [+2667 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "James Vincent",
+      "title": "Jack Dorsey’s Square, Inc. is buying a majority stake in Jay-Z’s streaming service Tidal - The Verge",
+      "description": "Financial services firm Square, Inc. is buying a majority stake in streaming service Tidal for $297 million in cash and stock. Square’s founder, Twitter CEO Jack Dorsey, said the deal would help artists find new ways of making money in the digital ecosystem.",
+      "url": "https://www.theverge.com/2021/3/4/22313108/square-inc-tidal-majority-stake-jack-dorsey-jay-z",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kqX2YFILqlUgvClK1wY2X9vuYpw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020425/akrales_170802_1743_0229.jpg",
+      "publishedAt": "2021-03-04T13:21:11Z",
+      "content": "Paying $297 million in a cash and stock deal\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nSquare, Inc., the financial services company founded by Twitter CEO Jack Dorsey, is acquiring a majority sta… [+3710 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Joe Skrebels",
+      "title": "Super Nintendo World: Orlando Park Opening Reportedly Delayed to 2025 - IGN",
+      "description": "The opening of a Super Nintendo World theme park in Orlando, Florida has reportedly been delayed by around two years.",
+      "url": "https://www.ign.com/articles/super-nintendo-world-orlando-park-opening-reportedly-delayed-to-2025",
+      "urlToImage": "https://assets1.ignimgs.com/2019/10/01/smw-usj-br-1569955234152.jpg?width=1280",
+      "publishedAt": "2021-03-04T13:13:01Z",
+      "content": "The opening of a Super Nintendo World theme park in Orlando, Florida has reportedly been delayed by around two years to 2025.The Orlando Sentinel reports that construction work on Universal's upcomin… [+1576 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Amanda Jackson, CNN",
+      "title": "It's hard for homebound seniors to get vaccinated. One city found a novel solution - CNN ",
+      "description": "They are usually eligible for Covid-19 vaccinations, but homebound seniors can often struggle to find a way of making the appointment to get the shots",
+      "url": "https://www.cnn.com/2021/03/04/us/corpus-christi-firefighter-vaccine-trnd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210303220759-04-texas-firefighters-giving-vaccine-super-tease.jpeg",
+      "publishedAt": "2021-03-04T13:13:00Z",
+      "content": "(CNN)They are usually eligible for Covid-19 vaccinations, but homebound seniors can often struggle to find a way of making the appointment to get the shots \r\nOne city in Texas has found a solution th… [+4318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Phil LeBeau",
+      "title": "Monthly auto loan payments surge to record highs as borrowing hits biggest one-year jump, Experian says - CNBC",
+      "description": "The average monthly new auto loan payment is approaching $600 according to Experian, which analyzes millions of new and used vehicle loans.",
+      "url": "https://www.cnbc.com/2021/03/04/monthly-auto-loan-payments-surge-to-record-highs-experian-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106840723-1613478504992-gettyimages-1231188495-AUTONATION_EARNS.jpeg?v=1613478555",
+      "publishedAt": "2021-03-04T13:00:00Z",
+      "content": "Don't look now, but the average monthly loan payment for a new car is approaching $600 according to Experian, which analyzes millions of new and used vehicle loans.\r\n\"We went up higher amounts year o… [+2167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Bob Pisani",
+      "title": "'Buzz' ETF tracking social media sentiment launches Thursday amid Reddit manias in stocks - CNBC",
+      "description": "The Van Eck Vectors Social Sentiment ETF (BUZZ) selects 75 stocks with the most bullish social media sentiment and packages them into an ETF.",
+      "url": "https://www.cnbc.com/2021/03/04/buzz-etf-tracking-social-media-sentiment-launches-thursday-amid-reddit-manias-in-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106811313-1608026067894-gettyimages-1229196183-AFP_8TJ2RU.jpeg?v=1608026238",
+      "publishedAt": "2021-03-04T12:35:00Z",
+      "content": "The logos of Google, Facebook, Instagram, Twitter, Snapchat and TikTok displayed on a computer screen.\r\nIs it time for an ETF that measures hype?\r\nMeasuring the buzz around stocks mentioned in social… [+5387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "Billionaire investor Ron Baron's firm sold 1.8 million Tesla shares despite saying price will hit $2,000 - CNBC",
+      "description": "Baron, a longstanding Tesla shareholder, said that his firm sold the shares because they were becoming too large a percentage of some portfolios.",
+      "url": "https://www.cnbc.com/2021/03/04/billionaire-investor-ron-baron-sells-1point8-million-tesla-shares.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105482916-1538484419124img_4567.jpg?v=1538484425",
+      "publishedAt": "2021-03-04T12:26:00Z",
+      "content": "Billionaire investor Ron Baron sold 1.8 million shares of Tesla during the last six months for clients despite believing the stock will increase to $2,000 over the next 10 years.\r\nBaron, a longstandi… [+1892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jack Denton",
+      "title": "Buy the dip with Apple, Microsoft and other tech stocks before they fly higher, says analyst - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/buy-the-dip-with-apple-microsoft-and-these-other-tech-stocks-before-they-fly-way-higher-says-analyst-11614860585",
+      "urlToImage": "https://images.mktw.net/im-307240/social",
+      "publishedAt": "2021-03-04T12:23:00Z",
+      "content": "It has been a bad week for technology stocks. The Nasdaq tumbled 2.7% on Wednesday, though the slide seemed to be slowing as markets opened on Thursday.So buy the dip before tech stocks move at least… [+6002 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Wieting: Rising bond yields do not signal the end of the bull market - CNBC Television",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QTVkQTJOcXc0bm_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-03-04T12:06:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Benoit Faucon, Summer Said",
+      "title": "Saudis, Russia Discuss Joint Oil Output Raise Ahead of OPEC Meeting - The Wall Street Journal",
+      "description": "Two sides are discussing combining forces to supply the world with more crude as prices rise",
+      "url": "https://www.wsj.com/articles/saudis-russia-discuss-joint-oil-output-raise-ahead-of-opec-meeting-11614857084",
+      "urlToImage": "https://images.wsj.net/im-307233/social",
+      "publishedAt": "2021-03-04T11:52:00Z",
+      "content": "Saudi Arabia and Russia are discussing a proposal to bring back a combined one million barrels a day of oil to global markets, people familiar with the matter said, as the countries prepare to hammer… [+1817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSYR"
+      },
+      "author": "WSYR",
+      "title": "Appointments available starting at 8 a.m. for fairgrounds’ overnight COVID-19 vaccine clinic - WSYR",
+      "description": "SYRACUSE, N.Y. (WSYR-TV) — With nearly 165,000 doses of the Johnson & Johnson vaccine arriving, New York State residents can begin making appointments for an overnight COVIID-19 vaccine clinic at 8 a.m. Thursday. Independent CDC review panel recommends Johnso…",
+      "url": "https://www.localsyr.com/health/coronavirus/appointments-available-starting-at-8-a-m-for-fairgrounds-overnight-covid-19-vaccine-clinic/",
+      "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2021/03/vaccine-1-1.jpg?w=1280",
+      "publishedAt": "2021-03-04T11:32:43Z",
+      "content": "SYRACUSE, N.Y. (WSYR-TV) — With nearly 165,000 doses of the Johnson &amp; Johnson vaccine arriving, New York State residents can begin making appointments for an overnight COVIID-19 vaccine clinic at… [+504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "David Jagielski",
+      "title": "These 3 February Underperformers Could Be the Best Stocks to Buy in March - The Motley Fool",
+      "description": "Last month wasn't a good one for these stocks, but there is plenty of reason to remain bullish on them over the long term.",
+      "url": "https://www.fool.com/investing/2021/03/04/these-3-february-underperformers-could-be-the-best/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/615965/investor-pressing-the-buy-button-on-an-app.jpg",
+      "publishedAt": "2021-03-04T11:30:00Z",
+      "content": "Buying a stock on the dip can be a great way to lock in a lower price for an investment, especially if the underlying business is still solid. It can increase the odds that you'll make a good profit … [+4770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ryan Browne",
+      "title": "Amazon launches its first cashierless store in Britain - CNBC",
+      "description": "Amazon opened its first physical store outside the U.S. in London Thursday.",
+      "url": "https://www.cnbc.com/2021/03/04/amazon-launches-its-first-cashierless-store-in-britain.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106679801-1598489752696-fresh_grocery_alexa_kiosk.jpeg?v=1614858494",
+      "publishedAt": "2021-03-04T11:22:00Z",
+      "content": "LONDON Amazon launched its first checkout-free store in Britain Thursday.\r\nCalled Amazon Fresh, the store is located in Ealing, London, and will let customers walk in, pick up what they want and walk… [+1269 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Karen Freifeld, Alexandra Alper",
+      "title": "Exclusive: U.S. suppliers to Chinese chip giant SMIC slow to get export licenses - Reuters",
+      "description": "The U.S. government has been slow to approve licenses for American companies like Lam Research and Applied Materials to sell chipmaking equipment to China semiconductor giant SMIC, several sources said, as the impact from global shortage spreads.",
+      "url": "https://www.reuters.com/article/us-usa-china-smic-exclusive-idUSKBN2AW18B",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210304&t=2&i=1553734350&r=LYNXMPEH230OB&w=800",
+      "publishedAt": "2021-03-04T11:03:00Z",
+      "content": "(Reuters) - The U.S. government has been slow to approve licenses for American companies like Lam Research and Applied Materials to sell chipmaking equipment to China semiconductor giant SMIC, severa… [+4510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Roy Furchgott",
+      "title": "Now Making Electric Bikes: Car and Motorcycle Companies - The New York Times",
+      "description": "They see branding opportunities as the pandemic and a desire by cities to curb traffic propel e-bike sales to new heights.",
+      "url": "https://www.nytimes.com/2021/03/04/business/electric-ebikes-pandemic.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/03/02/business/00wheels-ebikes-combo/00wheels-ebikes-combo-facebookJumbo.jpg",
+      "publishedAt": "2021-03-04T11:00:07Z",
+      "content": "Other companies see e-bikes as a gateway to sell their primary products. Though best known for its motorcycles, Ducati North America wants e-bikes to potentially turn people on to Ducati, its chief e… [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ben Foldy, Mike Colias",
+      "title": "GM Looking to Build Second Battery Factory in U.S. - The Wall Street Journal",
+      "description": "General Motors, in a joint venture with LG Chem, aims to expand its effort to power electric vehicles; Tennessee eyed as a plant site",
+      "url": "https://www.wsj.com/articles/gm-looking-to-build-second-battery-factory-in-u-s-11614853806",
+      "urlToImage": "https://images.wsj.net/im-307092/social",
+      "publishedAt": "2021-03-04T10:30:00Z",
+      "content": "General Motors Co.\r\n GM 0.74%\r\nis looking to build a second battery factory in the U.S. with joint-venture partner\r\nLG Chem Ltd.\r\n 051910 -0.57%\r\n, the latest move in the Detroit auto makers efforts … [+5540 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Michael Wursthorn",
+      "title": "Cathie Wood’s ARK Investment Faces Reckoning as Tech Trade Stalls - The Wall Street Journal",
+      "description": "Firm’s ETFs are underperforming badly as investor sentiment shifts toward cyclical shares tied to an economic upswing",
+      "url": "https://www.wsj.com/articles/cathie-woods-ark-investment-faces-reckoning-as-tech-trade-stalls-11614853810",
+      "urlToImage": "https://images.wsj.net/im-306153/social",
+      "publishedAt": "2021-03-04T10:30:00Z",
+      "content": "ARK Investment Management LLCs winning bets on disruptive technology companies cemented Cathie Woods status as Wall Streets hottest fund manager since Peter Lynch or Bill Gross.\r\nNow, those gambits t… [+949 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Shivdeep Dhaliwal",
+      "title": "Tesla Is Bleeding Battery EV Market Share To Ford's Mustang Mach-E: Morgan Stanley - Yahoo Finance",
+      "description": "Tesla Inc (NASDAQ: TSLA) is losing market share to Ford Motor Company’s (NYSE: F) Mustang Mach-E in the United States, according to Morgan Stanley, Electrek ...",
+      "url": "https://finance.yahoo.com/news/tesla-bleeding-battery-ev-market-062703803.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/iaFnM3VxeM6XZIZI_5i.pg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/ad9ab97700e6d89671745dcb9804faab",
+      "publishedAt": "2021-03-04T09:39:49Z",
+      "content": "NIO's (NIO) Q4 earnings were disappointing -- and (most) investors were disappointed. The Chinese electric-vehicle maker's stock sold off by 13% Tuesday, one day after NIO delivered a tiny sales \"bea… [+3767 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Walmart (WMT) India Startup Flipkart Weighs US Listing Via SPAC - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1e0f4ec0-7cfa-11eb-bd66-f58047b464f1&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0wNC9pbmRpYS1zLWZsaXBrYXJ0LXNhaWQtdG8tbXVsbC11LXMtbGlzdGluZy13aXRoLXNwYWMtYXMtb3B0aW9u",
+      "urlToImage": null,
+      "publishedAt": "2021-03-04T08:52:17Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    }
+  ],
   "profile": {
     "name": "Alex_qwerty12",
     "email": "lectou@outlook.com",
