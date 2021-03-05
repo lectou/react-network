@@ -1,0 +1,1569 @@
+{
+  "users": [
+    {
+      "name": "faridTema",
+      "FullName": null,
+      "id": 8971,
+      "email": null,
+      "test": [],
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFGiJ_tIEbFuvt7J7d17ldDOetn-PZteEIDQ&usqp=CAU",
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "Markus-cpu",
+      "FullName": null,
+      "id": 8970,
+      "email": null,
+      "photo": "https://source.unsplash.com/random/100x100",
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "sergey1888888",
+      "FullName": null,
+      "id": 8969,
+      "email": null,
+      "photo": "https://img.icons8.com/bubbles/2x/user.png",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "andrii_novak",
+      "FullName": null,
+      "id": 8968,
+      "email": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "TestUserTomsk",
+      "FullName": null,
+      "id": 8967,
+      "email": null,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBTQGZJ8guH7CPYsl8nweSZGRRKhR1xp40HArdycIBrJwHzFsxmRnw1VVLv350M6GDYJkSEg&usqp=CAU",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "ash___manukyan",
+      "FullName": null,
+      "id": 8941,
+      "email": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "manukyan__ash",
+      "FullName": null,
+      "id": 8940,
+      "email": null,
+      "photo": "https://asdorural.com/upload/iblock/fa9/fa9e12aa2282dd03350d76c42322fa9b.png",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "ashot",
+      "FullName": null,
+      "id": 8939,
+      "email": null,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmpoQaaw13BKAmYv1iRPzkz9AkM0ZskCqK_g&usqp=CAU",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Folen",
+      "FullName": null,
+      "id": 8938,
+      "email": null,
+      "photo": "https://img1.freepng.ru/20180706/chf/kisspng-user-profile-computer-icons-user-interface-female-5b3fe4ec8a79e9.8765446615309140285672.jpg",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "sasfwq1",
+      "FullName": null,
+      "id": 8937,
+      "email": null,
+      "photo": "https://dwpdigital.blog.gov.uk/wp-content/uploads/sites/197/2016/07/P1090594-1.jpeg",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "kemuro12",
+      "FullName": null,
+      "id": 8936,
+      "email": null,
+      "photo": "https://lh3.googleusercontent.com/mbKGl660l4Cz1R10cViqeO8MjHyKHRpmqVaTtkuC2fWWxlLGTpB-ntmb4tu08tOiZVNd",
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "Nikita_Efanov",
+      "FullName": null,
+      "id": 8935,
+      "email": null,
+      "photo": "https://junglejobs.ru/assets/img/female-avatar.png",
+      "status": "Статус",
+      "followed": false
+    },
+    {
+      "name": "MetalGearSolid4",
+      "FullName": null,
+      "id": 8934,
+      "email": null,
+      "photo": "https://source.unsplash.com/random/300x300",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "BorisPanich",
+      "FullName": null,
+      "id": 8933,
+      "email": null,
+      "photo": "https://source.unsplash.com/random/300x300",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "xdarkfenixx",
+      "FullName": null,
+      "id": 8932,
+      "email": null,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRgvg1-ojNsjy4sYDSZAsBvNogmqplREnyeg&usqp=CAU",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Limon",
+      "FullName": null,
+      "id": 8961,
+      "email": null,
+      "photo": "https://source.unsplash.com/random/300x300",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "FedechkoYuriy",
+      "FullName": null,
+      "id": 8960,
+      "email": null,
+      "photo": "https://cdn.pixabay.com/photo/2019/02/18/20/02/face-4005302_960_720.png",
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "m_daniiyal",
+      "FullName": null,
+      "id": 8959,
+      "email": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "NetZ13",
+      "FullName": null,
+      "id": 8958,
+      "email": null,
+      "photo": "https://png.pngitem.com/pimgs/s/265-2650014_human-face-png-man-face-portrait-male-person.png",
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "kamenskaya",
+      "FullName": null,
+      "id": 8957,
+      "email": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "shambhala13",
+      "FullName": null,
+      "id": 8956,
+      "email": null,
+      "photo": "https://p.kindpng.com/picc/s/154-1542732_portrait-adult-people-man-beard-boldness-business-man.png",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Yoda_",
+      "FullName": null,
+      "id": 8955,
+      "email": null,
+      "photo": "https://ms.vienna-company.kz/images/ava.png",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "yoda",
+      "FullName": null,
+      "id": 8954,
+      "email": null,
+      "photo": "https://source.unsplash.com/random/300x300",
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "rksondzyk",
+      "FullName": null,
+      "id": 8953,
+      "email": null,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRF3ZihyOgzpiNk3Lc8NOp6GuepTb1xH_CQDQ&usqp=CAU",
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "kapoliub",
+      "FullName": null,
+      "id": 8952,
+      "email": null,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYtenw8eEjiosnDEpzfvB4SQ29qbdrvGdlccvlJdohpR2k6C2RlPDNsDvjjap9Aq-h32uNhA&usqp=CAU",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "kapoliub0",
+      "FullName": null,
+      "id": 28952,
+      "email": null,
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRibZJSJzG_AsqlMDaiZFPRH5__X97Tl1mrng&usqp=CAU",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "olhamazurenko",
+      "id": 8379,
+      "uniqueUrlName": null,
+      "photo": "https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874f02b218fb.png",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "pulliiia23",
+      "id": 8378,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/8378/user.jpg?v=1",
+      "status": "ok2l;",
+      "followed": false
+    },
+    {
+      "name": "LEXX",
+      "id": 8377,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "vasvoz-test",
+      "id": 8376,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Aidar21",
+      "id": 8375,
+      "uniqueUrlName": null,
+      "photo": "https://source.unsplash.com/random/300x300",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Aidar",
+      "id": 8374,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "Alexxxxxx",
+      "id": 8373,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "vadim455789",
+      "id": 8372,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "Tim173",
+      "id": 8371,
+      "uniqueUrlName": null,
+      "photo": "https://source.unsplash.com/random/300x300",
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "andrew11",
+      "id": 8369,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/8369/user.jpg?v=1",
+      "status": "Hi Andrew",
+      "followed": true
+    },
+    {
+      "name": "djmaluy1",
+      "id": 8368,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "djmaluy",
+      "id": 8367,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "snsbsnsbq",
+      "id": 8366,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "Молодой пушкин е",
+      "followed": false
+    },
+    {
+      "name": "Eugene Davidoff",
+      "id": 8365,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/8365/user.jpg?v=1",
+      "status": "$3000 per month!!!",
+      "followed": false
+    },
+    {
+      "name": "Orion",
+      "id": 8364,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "meowash",
+      "id": 8363,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "cherepaha",
+      "id": 8362,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "Graf4ik",
+      "id": 8361,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "Graf4ik yo!!",
+      "followed": false
+    },
+    {
+      "name": "rdnk_e",
+      "id": 8279,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "111222",
+      "followed": false
+    },
+    {
+      "name": "oxakost",
+      "id": 8278,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "Yahoo lala",
+      "followed": false
+    },
+    {
+      "name": "Iev",
+      "id": 8277,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "test567891",
+      "id": 8276,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "Guy with no life🖥.Just beating keys and buttons on the keyboard ⌨",
+      "followed": false
+    },
+    {
+      "name": "vadzimkrasouski",
+      "id": 8275,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Artemii",
+      "id": 8274,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Greatlogin",
+      "id": 8273,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "This is my status!!!",
+      "followed": false
+    },
+    {
+      "name": "test5678912",
+      "id": 8272,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "JeremyWylde",
+      "id": 8271,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/8271/user.jpg?v=1",
+      "status": "sup",
+      "followed": false
+    },
+    {
+      "name": "AYROLE",
+      "id": 7179,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/7179/user.jpg?v=1",
+      "status": "da da da yaaaaa",
+      "followed": false
+    },
+    {
+      "name": "xces",
+      "id": 7178,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Stariu",
+      "id": 7177,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "bohdan21",
+      "id": 7176,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "",
+      "followed": false
+    },
+    {
+      "name": "Tahoe",
+      "id": 7175,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "mix",
+      "id": 7174,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/7174/user.jpg?v=1",
+      "status": "ghgdddsdsd sddwqdqwdqwdqw",
+      "followed": false
+    },
+    {
+      "name": "sargsalbert",
+      "id": 7173,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Ivannn",
+      "id": 7172,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "Yoheysdksj kjss",
+      "followed": false
+    },
+    {
+      "name": "AlexVozz",
+      "id": 7171,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "graph",
+      "id": 6179,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/6179/user.jpg?v=1",
+      "status": "Mom i am facebookerMAN",
+      "followed": false
+    },
+    {
+      "name": "BaVlaG",
+      "id": 6178,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/6178/user.jpg?v=1",
+      "status": "Hello my friend",
+      "followed": false
+    },
+    {
+      "name": "1111111111",
+      "id": 6177,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/6177/user.jpg?v=1",
+      "status": "server txt 5",
+      "followed": false
+    },
+    {
+      "name": "AndreiBike",
+      "id": 6176,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Nikitaaaa",
+      "id": 6175,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/6175/user.jpg?v=1",
+      "status": "Привет Я Никита",
+      "followed": false
+    },
+    {
+      "name": "Rold",
+      "id": 6174,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "хай",
+      "followed": false
+    },
+    {
+      "name": "andreyChaki",
+      "id": 6173,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "vikos-ka",
+      "id": 6172,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "vikos_ka",
+      "id": 6171,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "whitecollar1333",
+      "id": 5179,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "whitecollar",
+      "id": 5178,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "eduard88",
+      "id": 5177,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Aro",
+      "id": 5176,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/5176/user.jpg?v=1",
+      "status": "Good luck!",
+      "followed": false
+    },
+    {
+      "name": "Aro077",
+      "id": 5175,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "eduardREACT",
+      "id": 5174,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "eduardMD",
+      "id": 5173,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "dasddsadsadasdsa",
+      "followed": false
+    },
+    {
+      "name": "freed52",
+      "id": 5172,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": "dddd",
+      "followed": true
+    },
+    {
+      "name": "Djamaka",
+      "id": 5171,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/5171/user.jpg?v=1",
+      "status": "вапвап",
+      "followed": false
+    },
+    {
+      "name": "Sfinx",
+      "id": 1184,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/1184/user.jpg?v=1",
+      "status": "Ищу работу на фронте в Запорожье !",
+      "followed": false
+    },
+    {
+      "name": "my full name",
+      "id": 1183,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/1183/user.jpg?v=1",
+      "status": "my status",
+      "followed": false
+    },
+    {
+      "name": "some login",
+      "id": 1182,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Volod",
+      "id": 1181,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": true
+    },
+    {
+      "name": "Volo",
+      "id": 1180,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Jyboer",
+      "id": 1179,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "turtuan",
+      "id": 1178,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Sergey  Styrov",
+      "id": 1177,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/1177/user.jpg?v=1",
+      "status": "This is status!!!!!!!!!!",
+      "followed": false
+    },
+    {
+      "name": "zaitsevkuzma",
+      "id": 1176,
+      "uniqueUrlName": null,
+      "photo": "https://social-network.samuraijs.com/activecontent/images/users/1176/user.jpg?v=1",
+      "status": "ffdsfd",
+      "followed": false
+    },
+    {
+      "name": "ReTester",
+      "id": 10848,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "nook",
+      "id": 10847,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "ArturKozel",
+      "id": 10846,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Espada",
+      "id": 10845,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Onefuckman",
+      "id": 10844,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "redrock",
+      "id": 10843,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Levi484",
+      "id": 10842,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "ayefet2",
+      "id": 10841,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "shein92",
+      "id": 10840,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    },
+    {
+      "name": "Karter13",
+      "id": 10839,
+      "uniqueUrlName": null,
+      "photo": null,
+      "status": null,
+      "followed": false
+    }
+  ],
+  "dialogs": [
+    {
+      "id": "4",
+      "userId": 8970,
+      "text": "Not the answer you're looking for?",
+      "date": "2021-01-22T17:05:44.641Z"
+    },
+    {
+      "id": "5",
+      "userId": 8970,
+      "text": "Browse other questions tagged",
+      "date": "2021-01-22T17:05:44.641Z"
+    },
+    {
+      "id": "6",
+      "userId": 8969,
+      "text": "By clicking “Post Your Answer”, you agree to our terms of service, privacy policy and cookie policy",
+      "date": "2021-01-22T17:05:44.641Z"
+    },
+    {
+      "userId": 8968,
+      "user": true,
+      "text": "Метод slice() возвращает новый массив, содержащий копию части исходного массива.",
+      "date": "2021-01-22T17:05:44.641Z",
+      "id": "kdW8jiE"
+    },
+    {
+      "userId": 8971,
+      "user": true,
+      "text": "This snippet is based on the counter example from the previous page, but we added a new feature to it: we set the document title to a custom message including the number of clicks.",
+      "date": "2021-01-25T17:05:44.641Z",
+      "id": "fgUMxt9"
+    },
+    {
+      "userId": 8970,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-01-29T17:14:12.007Z",
+      "id": "ui5JiVZ"
+    },
+    {
+      "userId": 8968,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "mPCLBJ3"
+    },
+    {
+      "userId": 1176,
+      "user": true,
+      "text": "Network requests, manual DOM mutations, and logging are common examples of effects that don’t require a cleanup. We say that because we can run them and immediately forget about them. Let’s compare how classes and Hooks let us express such side effects.",
+      "date": "2021-01-25T17:14:12.007Z",
+      "id": "KXb0eav"
+    },
+    {
+      "userId": 8936,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-01-26T17:14:12.007Z",
+      "id": "7knGMrr"
+    },
+    {
+      "userId": 8936,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "VeYLzik"
+    },
+    {
+      "userId": 8938,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "p46qj9jsi"
+    },
+    {
+      "userId": 28952,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "cvs76ik27"
+    },
+    {
+      "userId": 8952,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "h0quz0mgn"
+    },
+    {
+      "userId": 6177,
+      "user": true,
+      "text": "In React class components, the render method itself shouldn’t cause side effects. It would be too early — we typically want to perform our effects after React has updated the DOM.",
+      "date": "2021-01-26T17:14:12.007Z",
+      "id": "om6r2jje1"
+    },
+    {
+      "userId": 7179,
+      "user": true,
+      "text": "This is why in React classes, we put side effects into componentDidMount and componentDidUpdate. Coming back to our example, here is a React counter class component that updates the document title right after React makes changes to the DOM:",
+      "date": "2021-02-26T17:14:12.007Z",
+      "id": "qygtpavmi"
+    },
+    {
+      "userId": 7179,
+      "user": false,
+      "text": "Coming back to our example, here is a React counter class component that updates the document title right after React makes changes to the DOM:",
+      "date": "2021-02-26T17:16:12.007Z",
+      "id": "qygtpavmi"
+    },
+    {
+      "userId": 8365,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-01-22T17:16:12.007Z",
+      "id": "u7zkg2h4e"
+    },
+    {
+      "userId": 1176,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-01-25T17:14:12.007Z",
+      "id": "50qhd3gpp"
+    },
+    {
+      "userId": 8376,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "rh1gmoogm"
+    },
+    {
+      "userId": 5171,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-01-27T17:14:12.007Z",
+      "id": "1dnps35sc"
+    },
+    {
+      "userId": 5176,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "hrdvnc3by"
+    },
+    {
+      "userId": 6175,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "k0ohpudsq"
+    },
+    {
+      "userId": 8970,
+      "text": "For example, we might want to set up a subscription to some external data source. In that case, it is important to clean up so that we don’t introduce a memory leak! Let’s compare how we can do it with classes and with Hooks.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "bavgrzys2"
+    },
+    {
+      "userId": 8935,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "n3c8jihb7"
+    },
+    {
+      "userId": 8379,
+      "user": true,
+      "text": "This is because in many cases we want to perform the same side effect regardless of whether the component just mounted, or if it has been updated. ",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "dldpq8vne"
+    },
+    {
+      "userId": 8941,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-02-20T17:16:12.007Z",
+      "id": "ai0adl3nh"
+    },
+    {
+      "userId": 5171,
+      "user": false,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-01-27T17:14:12.007Z",
+      "id": "1dnps35sc"
+    },
+    {
+      "userId": 5171,
+      "user": true,
+      "text": "In React class components, the render method itself shouldn’t cause side effects. It would be too early — we typically want to perform our effects after React has updated the DOM.",
+      "date": "2021-01-26T17:14:12.007Z",
+      "id": "l1d4epjnz"
+    },
+    {
+      "userId": 8971,
+      "user": true,
+      "text": "This website stores cookies on your computer. These cookies are used to collect information about how you interact with our website and allow us to remember you. We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on this website and other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "date": "2021-01-25T17:06:44.641Z",
+      "id": "dp1x4q069"
+    },
+    {
+      "userId": 8969,
+      "user": true,
+      "text": "By using this Hook, you tell React that your component needs to do something after render.",
+      "date": "2021-02-20T17:06:44.641Z",
+      "id": "a2rvtpikl"
+    },
+    {
+      "user": false,
+      "text": "Метод EventTarget.addEventListener() регистрирует определенный обработчик события, вызванного на EventTarget.",
+      "date": "2021-01-18T20:05:40.474Z",
+      "id": "79j3r22oz"
+    },
+    {
+      "userId": 8938,
+      "user": false,
+      "text": "EventTarget может быть Element, Document, Window, или любым другим объектом, поддерживающим события (таким как XMLHttpRequest).",
+      "date": "2021-02-23T17:16:12.007Z",
+      "id": "byykb4sqp"
+    },
+    {
+      "userId": 8365,
+      "user": false,
+      "text": "EventTarget может быть Element, Document, Window, или любым другим объектом, поддерживающим события (таким как XMLHttpRequest).",
+      "date": "2021-02-23T17:16:12.007Z",
+      "id": "aqc3tejp1"
+    },
+    {
+      "userId": 8365,
+      "user": false,
+      "text": "После инициализации захвата все события указанного типа будут",
+      "date": "2021-02-22T17:16:12.007Z",
+      "id": "swqc9grjm"
+    },
+    {
+      "userId": 8971,
+      "text": "We use this information in order to improve and customize your browsing experience and for analytics and metrics about our visitors both on t",
+      "date": "2021-01-19T16:18:54.619Z",
+      "id": "xuje2ilec"
+    },
+    {
+      "userId": 8968,
+      "text": "How to pass state values to initial values in formik in react js",
+      "id": "sfm4ozxab",
+      "date": "2021-02-23T16:18:54.619Z"
+    },
+    {
+      "userId": 8971,
+      "text": "Data fetching, setting up a subscription, and manually changing the DOM in React components are all examples of side effects. Whether or not you’re used to calling these operations “side effects” (or just “effects”), you’ve likely performed them in your components before.",
+      "date": "2021-02-25T17:05:44.641Z",
+      "id": "odoucg05c"
+    },
+    {
+      "userId": 1176,
+      "text": "Network requests, manual DOM mutations, and logging are common examples of effects that don’t require a cleanup. We say that because we can run them and immediately forget about them. Let’s compare how classes and Hooks let us express such side effects.\n\n",
+      "date": "2021-02-25T17:14:12.007Z",
+      "id": "c9xag2iq3"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "name": "faridTema",
+      "userId": 8971,
+      "read": false,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fugiat neque aut quibusdam sunt obcaecati vel atque soluta dolore quo corrupti ut fugit, iste quasi! Quaerat autem illo sequi, ratione atque quis quod. Iste, repellendus iure ex voluptatem laudantium culpa nulla voluptatibus maxime aliquam ullam natus veniam? Inventore, cumque veniam cum, veritatis voluptates in eaque voluptatum animi quam obcaecati culpa minima eius omnis nihil, iure earum consectetur laborum! Doloribus, asperiores!",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFGiJ_tIEbFuvt7J7d17ldDOetn-PZteEIDQ&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "name": "Markus-cpu",
+      "userId": 8970,
+      "read": true,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fugiat neque aut quibusdam sunt obcaecati vel atque",
+      "photo": null
+    },
+    {
+      "id": 3,
+      "name": "sergey1888888",
+      "userId": 8969,
+      "read": false,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fugiat neque aut quibusdam sunt obcaecati vel atque",
+      "photo": "https://img.icons8.com/bubbles/2x/user.png"
+    },
+    {
+      "id": 4,
+      "name": "andrii_novak",
+      "userId": 8968,
+      "read": true,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fugiat neque aut quibusdam sunt obcaecati vel atque",
+      "photo": null
+    },
+    {
+      "id": 5,
+      "name": "TestUserTomsk",
+      "userId": 8967,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur fugiat neque aut quibusdam sunt obcaecati vel atque",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRBTQGZJ8guH7CPYsl8nweSZGRRKhR1xp40HArdycIBrJwHzFsxmRnw1VVLv350M6GDYJkSEg&usqp=CAU",
+      "read": false
+    },
+    {
+      "name": "sergey1888888",
+      "userId": 8969,
+      "read": false,
+      "text": "  Line 15:6:  React Hook useEffect has a missing dependency: 'props'. Either include it or remove the dependency array. However, 'props' will change when *any* prop changes, so the preferred fix is to destructure the 'props' object outside of the useEffect call and refer to those specific props inside useEffect  react-hooks/exhaustive-deps",
+      "user": true,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "photo": "https://img.icons8.com/bubbles/2x/user.png",
+      "id": "160lh9h1c"
+    },
+    {
+      "name": "vadim455789",
+      "userId": 8372,
+      "read": true,
+      "text": "  Line 15:6:  React Hook useEffect has a missing dependency: 'props'. Either include it or remove the dependency array. However, 'props' will change when *any* prop changes, so the preferred fix is to destructure the 'props' object outside of the useEffect call and refer to those specific props inside useEffect  react-hooks/exhaustive-deps",
+      "user": true,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "photo": null,
+      "id": "r29gfmlwg"
+    },
+    {
+      "name": "andrii_novak",
+      "userId": 8968,
+      "read": true,
+      "text": "  Line 15:6:  React Hook useEffect has a missing dependency: 'props'. Either include it or remove the dependency array. However, 'props' will change when *any* prop changes, so the preferred fix is to destructure the 'props' object outside of the useEffect call and refer to those specific props inside useEffect  react-hooks/exhaustive-deps",
+      "user": true,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "photo": null,
+      "id": "kps55e0bs"
+    },
+    {
+      "name": "sergey1888888",
+      "userId": 8969,
+      "read": false,
+      "text": "  Line 15:6:  React Hook useEffect has a missing dependency: 'props'. Either include it or remove the dependency array. However, 'props' will change when *any* prop changes, so the preferred fix is to destructure the 'props' object outside of the useEffect call and refer to those specific props inside useEffect  react-hooks/exhaustive-deps",
+      "user": true,
+      "date": "Mon Nov 09 2020 19:29:19",
+      "photo": "https://img.icons8.com/bubbles/2x/user.png",
+      "id": "7fuam7lpd"
+    },
+    {
+      "name": "andrii_novak",
+      "userId": 8968,
+      "read": false,
+      "text": "afsdf",
+      "user": true,
+      "date": "2020-11-11T20:11:29.945Z",
+      "photo": null,
+      "id": "go3s207p9"
+    }
+  ],
+  "posts": [
+    {
+      "image": "https://c4.wallpaperflare.com/wallpaper/86/549/159/sword-samurai-digital-art-fan-art-wallpaper-preview.jpg",
+      "title": "useRef",
+      "text": "Возможно, вы знакомы с рефами в основном как со способом получить доступ к DOM. Если вы передадите React объект рефа с помощью подобного выражения <div ref={myRef}/>, React установит собственное свойство .current на соответствующий DOM-узел при каждом его изменении.\n\nНо хук useRef() полезен не только установкой атрибута с рефом. Он удобен для сохранения любого мутируемого значения, по аналогии с тем, как вы используете поля экземпляра в классах.",
+      "like": 0,
+      "dislike": 0,
+      "date": "2021-01-17T19:42:37.862Z",
+      "id": "ckk777ut0"
+    },
+    {
+      "image": "https://c4.wallpaperflare.com/wallpaper/479/371/644/anime-avatar-the-last-airbender-aang-appa-wallpaper-preview.jpg",
+      "title": "useMemo",
+      "text": "Передайте «создающую» функцию и массив зависимостей. useMemo будет повторно вычислять мемоизированное значение только тогда, когда значение какой-либо из зависимостей изменилось. Эта оптимизация помогает избежать дорогостоящих вычислений при каждом рендере.\n\nПомните, что функция, переданная useMemo, запускается во время рендеринга. Не делайте там ничего, что вы обычно не делаете во время рендеринга. Например, побочные эффекты принадлежат useEffect, а не useMemo.\n\nЕсли массив не был передан, новое значение будет вычисляться при каждом рендере.\n\nВы можете использовать useMemo как оптимизацию производительности, а не как семантическую гарантию. В будущем React может решить «забыть» некоторые ранее мемоизированные значения и пересчитать их при следующем рендере, например, чтобы освободить память для компонентов вне области видимости экрана. Напишите свой код, чтобы он по-прежнему работал без useMemo, а затем добавьте его для оптимизации производительности.",
+      "like": 0,
+      "dislike": 0,
+      "date": "2021-01-18T16:50:22.432Z",
+      "id": "npfxu34e9"
+    },
+    {
+      "image": "https://c4.wallpaperflare.com/wallpaper/490/107/685/the-dark-background-owl-paint-minimalism-wallpaper-preview.jpg",
+      "title": "EventTarget.addEventListener()",
+      "text": "В более старых версиях спецификации DOM третьим параметром addEventListener было логическое значение, указывающее, следует ли захватывать событие на этапе погружения. Со временем стало ясно, что необходимо больше вариантов. Вместо добавления дополнительных параметров в функцию (усложняя ситуацию при использовании необязательных значений) третий параметр был изменен на объект, который может содержать различные свойства, определяющие значения параметров для настройки слушателя событий.\n\nПоскольку старые браузеры (а также некоторые не слишком старые браузеры) по-прежнему предполагают, что третий параметр является логическим, возникает необходимость создания своего кода, чтобы разумно обрабатывать этот сценарий. Вы можете сделать это, используя функцию обнаружения для каждого из интересующих вас параметров.",
+      "like": 0,
+      "dislike": 0,
+      "date": "2021-01-25T21:53:40.599Z",
+      "id": "r19ikhbfg"
+    },
+    {
+      "image": "https://c4.wallpaperflare.com/wallpaper/564/483/639/artwork-digital-art-robot-samurai-wallpaper-preview.jpg",
+      "title": "useEffect",
+      "text": "Accepts a function that contains imperative, possibly effectful code.\n\nMutations, subscriptions, timers, logging, and other side effects are not allowed inside the main body of a function component (referred to as React’s render phase). Doing so will lead to confusing bugs and inconsistencies in the UI.\n\nInstead, use useEffect. The function passed to useEffect will run after the render is committed to the screen. Think of effects as an escape hatch from React’s purely functional world into the imperative world.\n\nBy default, effects run after every completed render, but you can choose to fire them only when certain values have changed.\n\nCleaning up an effect\nOften, effects create resources that need to be cleaned up before the component leaves the screen, such as a subscription or timer ID. To do this, the function passed to useEffect may return a clean-up function. ",
+      "like": 0,
+      "dislike": 0,
+      "date": "2021-02-25T17:56:19.636Z",
+      "id": "u0zimd06g"
+    }
+  ],
+  "comments": [
+    {
+      "name": "Farid",
+      "date": "2021-02-18T16:50:22.432Z",
+      "id": 3,
+      "postId": "ckk777ut0",
+      "text": "By clicking “Post Your Answer”, you agree to our terms of service, privacy policy and cookie policy",
+      "photo": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png"
+    },
+    {
+      "name": "Farid",
+      "date": "2021-02-18T16:50:22.432Z",
+      "id": 4,
+      "postId": "ckk777ut0",
+      "text": "By clicking “Post Your Answer”, you agree to our terms of service, privacy policy and cookie policy",
+      "photo": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png"
+    },
+    {
+      "name": "Alex_qwerty",
+      "date": "2021-02-18T16:50:22.432Z",
+      "id": "kze57t47g",
+      "postId": "ckk777ut0",
+      "text": "How to pass state values to initial values in formik in react js",
+      "photo": "https://cdn0.iconfinder.com/data/icons/professional-avatar-5/48/3d_modeling_male_avatar_men_character_professions-512.png"
+    },
+    {
+      "name": "Marcus",
+      "date": "2021-02-25T19:22:23.883Z",
+      "id": "ih8epfcvn",
+      "postId": "u0zimd06g",
+      "text": "Think of effects as an escape hatch from React’s purely functional world into the imperative world. By default, effects run after every completed render, but you can choose to fire them only w",
+      "photo": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png"
+    },
+    {
+      "name": "Alex_qwerty12",
+      "date": "2021-02-25T19:22:38.823Z",
+      "id": "p9be0g57e",
+      "postId": "u0zimd06g",
+      "text": " To do this, the function passed to useEffect may return a clean-up function.",
+      "photo": "https://cdn0.iconfinder.com/data/icons/professional-avatar-5/48/3d_modeling_male_avatar_men_character_professions-512.png"
+    },
+    {
+      "name": "Alex_qwerty12",
+      "date": "2021-02-25T19:24:42.817Z",
+      "id": "j954qh2pp",
+      "postId": "r19ikhbfg",
+      "text": " Вы можете сделать это, используя функцию обнаружения для каждого из интересующих вас параметров.",
+      "photo": "https://cdn0.iconfinder.com/data/icons/professional-avatar-5/48/3d_modeling_male_avatar_men_character_professions-512.png"
+    },
+    {
+      "name": "Folen",
+      "date": "2021-02-25T19:24:42.817Z",
+      "id": "j954qh2ip",
+      "postId": "r19ikhbfg",
+      "text": "В более старых версиях спецификации DOM третьим параметром addEventListener было логическое значение, указывающее, следует ли захватывать событие на этапе погружения.",
+      "photo": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png"
+    },
+    {
+      "name": "Alex_qwerty12",
+      "date": "2021-02-25T19:27:36.230Z",
+      "id": "46fzjk6e4",
+      "postId": "npfxu34e9",
+      "text": "Напишите свой код, чтобы он по-прежнему работал без useMemo, а затем добавьте его для оптимизации производительности.",
+      "photo": "https://cdn0.iconfinder.com/data/icons/professional-avatar-5/48/3d_modeling_male_avatar_men_character_professions-512.png"
+    },
+    {
+      "name": "Marcus",
+      "date": "2021-02-25T19:27:36.230Z",
+      "id": "46fzjk674",
+      "postId": "npfxu34e9",
+      "text": " В будущем React может решить «забыть» некоторые ранее мемоизированные значения и пересчитать их при следующем рендере, например, чтобы освободить память для компонентов вне области видимости экрана.",
+      "photo": "https://cdn.iconscout.com/icon/free/png-512/laptop-user-1-1179329.png"
+    }
+  ],
+  "news": [
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Dow Jones Futures: Will Fed Chief Powell Offer Treasury Yield 'Twist' With Stock Market Rally Reeling? - Investor's Business Daily",
+      "description": "Dow futures rose Thursday morning with the stock market rally just hanging on. Fed chief Jerome Powell speaks with Treasury yields in focus.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-chief-powell-treasury-yield-twist-bond-yields-pressure-stock-market-rally/",
+      "urlToImage": "https://www.investors.com/wp-content/uploads/2018/10/stock-Jerome-Powell-02-fed.jpg",
+      "publishedAt": "2021-03-04T14:01:00Z",
+      "content": "The stock market opened higher Thursday morning, erasing overnight losses. The stock market rally is reeling, with the Nasdaq and growth stocks under heavy pressure in recent weeks amid rising bond y… [+5108 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jeff Cox",
+      "title": "Weekly jobless claims rise less than expected despite weather impact - CNBC",
+      "description": "First-time claims for unemployment benefits totaled 750,000 last week, up from 736,000 the week before but below the 750,000 estimate.",
+      "url": "https://www.cnbc.com/2021/03/04/weekly-jobless-claims.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106844149-1614084766129-gettyimages-1303590170-uspresidentbidentorevisesmallbusinessloanstoreachminorityf.jpeg?v=1614084851",
+      "publishedAt": "2021-03-04T13:32:00Z",
+      "content": "Weekly jobless claims edged higher last week but rose less than expected for an economy struggling to shake off impacts from a pandemic that has been around now for nearly a year.\r\nThe Labor Departme… [+2667 chars]"
+    },
+    {
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "James Vincent",
+      "title": "Jack Dorsey’s Square, Inc. is buying a majority stake in Jay-Z’s streaming service Tidal - The Verge",
+      "description": "Financial services firm Square, Inc. is buying a majority stake in streaming service Tidal for $297 million in cash and stock. Square’s founder, Twitter CEO Jack Dorsey, said the deal would help artists find new ways of making money in the digital ecosystem.",
+      "url": "https://www.theverge.com/2021/3/4/22313108/square-inc-tidal-majority-stake-jack-dorsey-jay-z",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/kqX2YFILqlUgvClK1wY2X9vuYpw=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9020425/akrales_170802_1743_0229.jpg",
+      "publishedAt": "2021-03-04T13:21:11Z",
+      "content": "Paying $297 million in a cash and stock deal\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nSquare, Inc., the financial services company founded by Twitter CEO Jack Dorsey, is acquiring a majority sta… [+3710 chars]"
+    },
+    {
+      "source": {
+        "id": "ign",
+        "name": "IGN"
+      },
+      "author": "Joe Skrebels",
+      "title": "Super Nintendo World: Orlando Park Opening Reportedly Delayed to 2025 - IGN",
+      "description": "The opening of a Super Nintendo World theme park in Orlando, Florida has reportedly been delayed by around two years.",
+      "url": "https://www.ign.com/articles/super-nintendo-world-orlando-park-opening-reportedly-delayed-to-2025",
+      "urlToImage": "https://assets1.ignimgs.com/2019/10/01/smw-usj-br-1569955234152.jpg?width=1280",
+      "publishedAt": "2021-03-04T13:13:01Z",
+      "content": "The opening of a Super Nintendo World theme park in Orlando, Florida has reportedly been delayed by around two years to 2025.The Orlando Sentinel reports that construction work on Universal's upcomin… [+1576 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Amanda Jackson, CNN",
+      "title": "It's hard for homebound seniors to get vaccinated. One city found a novel solution - CNN ",
+      "description": "They are usually eligible for Covid-19 vaccinations, but homebound seniors can often struggle to find a way of making the appointment to get the shots",
+      "url": "https://www.cnn.com/2021/03/04/us/corpus-christi-firefighter-vaccine-trnd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210303220759-04-texas-firefighters-giving-vaccine-super-tease.jpeg",
+      "publishedAt": "2021-03-04T13:13:00Z",
+      "content": "(CNN)They are usually eligible for Covid-19 vaccinations, but homebound seniors can often struggle to find a way of making the appointment to get the shots \r\nOne city in Texas has found a solution th… [+4318 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Phil LeBeau",
+      "title": "Monthly auto loan payments surge to record highs as borrowing hits biggest one-year jump, Experian says - CNBC",
+      "description": "The average monthly new auto loan payment is approaching $600 according to Experian, which analyzes millions of new and used vehicle loans.",
+      "url": "https://www.cnbc.com/2021/03/04/monthly-auto-loan-payments-surge-to-record-highs-experian-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106840723-1613478504992-gettyimages-1231188495-AUTONATION_EARNS.jpeg?v=1613478555",
+      "publishedAt": "2021-03-04T13:00:00Z",
+      "content": "Don't look now, but the average monthly loan payment for a new car is approaching $600 according to Experian, which analyzes millions of new and used vehicle loans.\r\n\"We went up higher amounts year o… [+2167 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Bob Pisani",
+      "title": "'Buzz' ETF tracking social media sentiment launches Thursday amid Reddit manias in stocks - CNBC",
+      "description": "The Van Eck Vectors Social Sentiment ETF (BUZZ) selects 75 stocks with the most bullish social media sentiment and packages them into an ETF.",
+      "url": "https://www.cnbc.com/2021/03/04/buzz-etf-tracking-social-media-sentiment-launches-thursday-amid-reddit-manias-in-stocks.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106811313-1608026067894-gettyimages-1229196183-AFP_8TJ2RU.jpeg?v=1608026238",
+      "publishedAt": "2021-03-04T12:35:00Z",
+      "content": "The logos of Google, Facebook, Instagram, Twitter, Snapchat and TikTok displayed on a computer screen.\r\nIs it time for an ETF that measures hype?\r\nMeasuring the buzz around stocks mentioned in social… [+5387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Michael Wayland",
+      "title": "Billionaire investor Ron Baron's firm sold 1.8 million Tesla shares despite saying price will hit $2,000 - CNBC",
+      "description": "Baron, a longstanding Tesla shareholder, said that his firm sold the shares because they were becoming too large a percentage of some portfolios.",
+      "url": "https://www.cnbc.com/2021/03/04/billionaire-investor-ron-baron-sells-1point8-million-tesla-shares.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105482916-1538484419124img_4567.jpg?v=1538484425",
+      "publishedAt": "2021-03-04T12:26:00Z",
+      "content": "Billionaire investor Ron Baron sold 1.8 million shares of Tesla during the last six months for clients despite believing the stock will increase to $2,000 over the next 10 years.\r\nBaron, a longstandi… [+1892 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jack Denton",
+      "title": "Buy the dip with Apple, Microsoft and other tech stocks before they fly higher, says analyst - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/buy-the-dip-with-apple-microsoft-and-these-other-tech-stocks-before-they-fly-way-higher-says-analyst-11614860585",
+      "urlToImage": "https://images.mktw.net/im-307240/social",
+      "publishedAt": "2021-03-04T12:23:00Z",
+      "content": "It has been a bad week for technology stocks. The Nasdaq tumbled 2.7% on Wednesday, though the slide seemed to be slowing as markets opened on Thursday.So buy the dip before tech stocks move at least… [+6002 chars]"
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": null,
+      "title": "Wieting: Rising bond yields do not signal the end of the bull market - CNBC Television",
+      "description": null,
+      "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QTVkQTJOcXc0bm_SAQA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2021-03-04T12:06:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Benoit Faucon, Summer Said",
+      "title": "Saudis, Russia Discuss Joint Oil Output Raise Ahead of OPEC Meeting - The Wall Street Journal",
+      "description": "Two sides are discussing combining forces to supply the world with more crude as prices rise",
+      "url": "https://www.wsj.com/articles/saudis-russia-discuss-joint-oil-output-raise-ahead-of-opec-meeting-11614857084",
+      "urlToImage": "https://images.wsj.net/im-307233/social",
+      "publishedAt": "2021-03-04T11:52:00Z",
+      "content": "Saudi Arabia and Russia are discussing a proposal to bring back a combined one million barrels a day of oil to global markets, people familiar with the matter said, as the countries prepare to hammer… [+1817 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WSYR"
+      },
+      "author": "WSYR",
+      "title": "Appointments available starting at 8 a.m. for fairgrounds’ overnight COVID-19 vaccine clinic - WSYR",
+      "description": "SYRACUSE, N.Y. (WSYR-TV) — With nearly 165,000 doses of the Johnson & Johnson vaccine arriving, New York State residents can begin making appointments for an overnight COVIID-19 vaccine clinic at 8 a.m. Thursday. Independent CDC review panel recommends Johnso…",
+      "url": "https://www.localsyr.com/health/coronavirus/appointments-available-starting-at-8-a-m-for-fairgrounds-overnight-covid-19-vaccine-clinic/",
+      "urlToImage": "https://www.localsyr.com/wp-content/uploads/sites/63/2021/03/vaccine-1-1.jpg?w=1280",
+      "publishedAt": "2021-03-04T11:32:43Z",
+      "content": "SYRACUSE, N.Y. (WSYR-TV) — With nearly 165,000 doses of the Johnson &amp; Johnson vaccine arriving, New York State residents can begin making appointments for an overnight COVIID-19 vaccine clinic at… [+504 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Motley Fool"
+      },
+      "author": "David Jagielski",
+      "title": "These 3 February Underperformers Could Be the Best Stocks to Buy in March - The Motley Fool",
+      "description": "Last month wasn't a good one for these stocks, but there is plenty of reason to remain bullish on them over the long term.",
+      "url": "https://www.fool.com/investing/2021/03/04/these-3-february-underperformers-could-be-the-best/",
+      "urlToImage": "https://g.foolcdn.com/editorial/images/615965/investor-pressing-the-buy-button-on-an-app.jpg",
+      "publishedAt": "2021-03-04T11:30:00Z",
+      "content": "Buying a stock on the dip can be a great way to lock in a lower price for an investment, especially if the underlying business is still solid. It can increase the odds that you'll make a good profit … [+4770 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ryan Browne",
+      "title": "Amazon launches its first cashierless store in Britain - CNBC",
+      "description": "Amazon opened its first physical store outside the U.S. in London Thursday.",
+      "url": "https://www.cnbc.com/2021/03/04/amazon-launches-its-first-cashierless-store-in-britain.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106679801-1598489752696-fresh_grocery_alexa_kiosk.jpeg?v=1614858494",
+      "publishedAt": "2021-03-04T11:22:00Z",
+      "content": "LONDON Amazon launched its first checkout-free store in Britain Thursday.\r\nCalled Amazon Fresh, the store is located in Ealing, London, and will let customers walk in, pick up what they want and walk… [+1269 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Karen Freifeld, Alexandra Alper",
+      "title": "Exclusive: U.S. suppliers to Chinese chip giant SMIC slow to get export licenses - Reuters",
+      "description": "The U.S. government has been slow to approve licenses for American companies like Lam Research and Applied Materials to sell chipmaking equipment to China semiconductor giant SMIC, several sources said, as the impact from global shortage spreads.",
+      "url": "https://www.reuters.com/article/us-usa-china-smic-exclusive-idUSKBN2AW18B",
+      "urlToImage": "https://static.reuters.com/resources/r/?m=02&d=20210304&t=2&i=1553734350&r=LYNXMPEH230OB&w=800",
+      "publishedAt": "2021-03-04T11:03:00Z",
+      "content": "(Reuters) - The U.S. government has been slow to approve licenses for American companies like Lam Research and Applied Materials to sell chipmaking equipment to China semiconductor giant SMIC, severa… [+4510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Roy Furchgott",
+      "title": "Now Making Electric Bikes: Car and Motorcycle Companies - The New York Times",
+      "description": "They see branding opportunities as the pandemic and a desire by cities to curb traffic propel e-bike sales to new heights.",
+      "url": "https://www.nytimes.com/2021/03/04/business/electric-ebikes-pandemic.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/03/02/business/00wheels-ebikes-combo/00wheels-ebikes-combo-facebookJumbo.jpg",
+      "publishedAt": "2021-03-04T11:00:07Z",
+      "content": "Other companies see e-bikes as a gateway to sell their primary products. Though best known for its motorcycles, Ducati North America wants e-bikes to potentially turn people on to Ducati, its chief e… [+1621 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Ben Foldy, Mike Colias",
+      "title": "GM Looking to Build Second Battery Factory in U.S. - The Wall Street Journal",
+      "description": "General Motors, in a joint venture with LG Chem, aims to expand its effort to power electric vehicles; Tennessee eyed as a plant site",
+      "url": "https://www.wsj.com/articles/gm-looking-to-build-second-battery-factory-in-u-s-11614853806",
+      "urlToImage": "https://images.wsj.net/im-307092/social",
+      "publishedAt": "2021-03-04T10:30:00Z",
+      "content": "General Motors Co.\r\n GM 0.74%\r\nis looking to build a second battery factory in the U.S. with joint-venture partner\r\nLG Chem Ltd.\r\n 051910 -0.57%\r\n, the latest move in the Detroit auto makers efforts … [+5540 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Michael Wursthorn",
+      "title": "Cathie Wood’s ARK Investment Faces Reckoning as Tech Trade Stalls - The Wall Street Journal",
+      "description": "Firm’s ETFs are underperforming badly as investor sentiment shifts toward cyclical shares tied to an economic upswing",
+      "url": "https://www.wsj.com/articles/cathie-woods-ark-investment-faces-reckoning-as-tech-trade-stalls-11614853810",
+      "urlToImage": "https://images.wsj.net/im-306153/social",
+      "publishedAt": "2021-03-04T10:30:00Z",
+      "content": "ARK Investment Management LLCs winning bets on disruptive technology companies cemented Cathie Woods status as Wall Streets hottest fund manager since Peter Lynch or Bill Gross.\r\nNow, those gambits t… [+949 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Shivdeep Dhaliwal",
+      "title": "Tesla Is Bleeding Battery EV Market Share To Ford's Mustang Mach-E: Morgan Stanley - Yahoo Finance",
+      "description": "Tesla Inc (NASDAQ: TSLA) is losing market share to Ford Motor Company’s (NYSE: F) Mustang Mach-E in the United States, according to Morgan Stanley, Electrek ...",
+      "url": "https://finance.yahoo.com/news/tesla-bleeding-battery-ev-market-062703803.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/iaFnM3VxeM6XZIZI_5i.pg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/ad9ab97700e6d89671745dcb9804faab",
+      "publishedAt": "2021-03-04T09:39:49Z",
+      "content": "NIO's (NIO) Q4 earnings were disappointing -- and (most) investors were disappointed. The Chinese electric-vehicle maker's stock sold off by 13% Tuesday, one day after NIO delivered a tiny sales \"bea… [+3767 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Walmart (WMT) India Startup Flipkart Weighs US Listing Via SPAC - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=1e0f4ec0-7cfa-11eb-bd66-f58047b464f1&url=L25ld3MvYXJ0aWNsZXMvMjAyMS0wMy0wNC9pbmRpYS1zLWZsaXBrYXJ0LXNhaWQtdG8tbXVsbC11LXMtbGlzdGluZy13aXRoLXNwYWMtYXMtb3B0aW9u",
+      "urlToImage": null,
+      "publishedAt": "2021-03-04T08:52:17Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    }
+  ],
+  "profile": {
+    "name": "Alex_qwerty12",
+    "email": "lectou@outlook.com",
+    "aboutMe": "learn js, react",
+    "status": "Front-end dev",
+    "info": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At expedita excepturi autem, a laboriosam neque pariatur, tempora fuga, doloribus dolore itaque sapiente quod tempore doloremque et rerum sed? Placeat commodi repellat vel provident repudiandae, aliquam porro asperiores, libero debitis laboriosam facilis autem impedit sint, doloribus quaerat! Eligendi sapiente adipisci omnis. Reprehenderit, accusamus. Veritatis qui iure eaque voluptatibus perspiciatis tenetur eius corporis ad ut odio velit, veniam quia suscipit .",
+    "id": 3663,
+    "photo": "https://cdn0.iconfinder.com/data/icons/professional-avatar-5/48/3d_modeling_male_avatar_men_character_professions-512.png"
+  },
+  "auth": {
+    "id": 6360,
+    "name": "user",
+    "password": "123",
+    "email": "lectou@outlook.com",
+    "isAuth": true
+  }
+}
