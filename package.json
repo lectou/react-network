@@ -76,7 +76,7 @@
     "yup": "^0.32.8"
   },
   "scripts": {
-    "json-server": "json-server ./src/db/db.json --watch --port 3009",
+    "json-server": "json-server ./public/db.json --watch --port 3009",
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
