@@ -1,27 +1,22 @@
 import axios from 'axios';
 
 
-const instance = axios.create({
-  baseURL: "http://localhost:3009/",
-});
-
-
 // Profile
 
 export const profileAPI = {
   getProfile() {
-    return instance.get(`profile`)
+    return axios.get(`profile`)
       .then(({ data }) => data)
       .catch(() => alert("Failed to update profile data"))
   },
   setProfilePhoto(url) {
-    return instance.patch(`profile`, {
+    return axios.patch(`profile`, {
       photo: url
     })
       .catch(() => alert("Failed to update profile photo"))
   },
   setProfile(name, email, aboutMe, status, info) {
-    return instance.patch(`profile`, {
+    return axios.patch(`profile`, {
       name: name,
       email: email,
       aboutMe: aboutMe,
@@ -36,13 +31,13 @@ export const profileAPI = {
 export const usersAPI = {
 
   getUsers(currentPage = 1, pageSize = 10) {
-    return instance.get(`users?_limit=${pageSize}&_page=${currentPage}`)
+    return axios.get(`users?_limit=${pageSize}&_page=${currentPage}`)
       .then(({ data }) => data)
       .catch(() => alert("Failed to update users data"))
   },
 
   userFollow(id, val) {
-    return instance.patch(`users/${id}`, {
+    return axios.patch(`users/${id}`, {
       followed: val
     })
       .catch(() => {
@@ -57,27 +52,27 @@ export const usersAPI = {
 export const postsAPI = {
 
   getPosts() {
-    return instance.get(`posts`)
+    return axios.get(`posts`)
       .then(({ data }) => data)
       .catch(() => {
         alert("Failed to get posts.")
       })
   },
   getPostsCommentsData(id) {
-    return instance.get(`posts/${id}?_embed=comments`)
+    return axios.get(`posts/${id}?_embed=comments`)
       .then(({ data }) => data)
       .catch(() => {
         alert("Failed to get posts.")
       })
   },
   setNewPost(post) {
-    return instance.post(`posts`, post)
+    return axios.post(`posts`, post)
       .catch(() => {
         alert("Failed to load post.")
       })
   },
   deletePost(id) {
-    return instance.delete(`posts/${id}`)
+    return axios.delete(`posts/${id}`)
       .catch(() => {
         alert("Failed to delete post")
       })
@@ -88,7 +83,7 @@ export const postsAPI = {
 //Comments
 export const commentsAPI = {
   setNewComment(comment) {
-    return instance.post(`comments`, comment)
+    return axios.post(`comments`, comment)
       .catch(() => {
         alert("Failed to load comment.")
       })
@@ -100,26 +95,26 @@ export const commentsAPI = {
 export const dialogsAPI = {
 
   getDialogs() {
-    return instance.get(`users?_embed=dialogs`)
+    return axios.get(`users?_embed=dialogs`)
       .then(({ data }) => data)
       .catch(() => console.log("Error loading dialogs"))
   },
 
   getDialog(id) {
-    return instance.get(`users/${id}?_embed=dialogs`)
+    return axios.get(`users/${id}?_embed=dialogs`)
       .then(({ data }) => data)
       .catch(() => console.log("Error loading dialog"))
   },
 
   deleteDialog(id) {
-    return instance.delete(`dialogs/${id}`)
+    return axios.delete(`dialogs/${id}`)
       .catch(() => {
         alert("Failed to delete dialog")
       })
   },
 
   setMessage(post) {
-    return instance.post(`dialogs`, post)
+    return axios.post(`dialogs`, post)
       .catch(() => console.log("Failed to post object!"))
   }
 }
@@ -137,7 +132,7 @@ export const newsAPI = {
   //     })
   // }
   getNews() {
-    return instance.get("news")
+    return axios.get("news")
       .then(({ data }) => {
         return data;
       })
@@ -152,7 +147,7 @@ export const newsAPI = {
 export const authAPI = {
 
   login() {
-    return instance.get(`auth`)
+    return axios.get(`auth`)
       .then(({ data }) => {
         return data
       })
@@ -162,7 +157,7 @@ export const authAPI = {
   },
 
   isAuth(value) {
-    return instance.patch(`auth`, { isAuth: value })
+    return axios.patch(`auth`, { isAuth: value })
       .catch(() => {
         alert("Failed to update auth data.")
       })
